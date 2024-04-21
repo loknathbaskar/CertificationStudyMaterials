@@ -1,0 +1,2 @@
+#List cloud 
+Get-AzEnvironment
